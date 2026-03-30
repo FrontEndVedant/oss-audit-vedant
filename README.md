@@ -53,8 +53,8 @@ personalised open source philosophy statement saved to a .txt file.
 
 **1. Clone this repository:**
 ```bash
-git clone https://github.com/FrontEndVedant/oss-audit-24MIM10110.git
-cd oss-audit-24MIM10110
+git clone https://github.com/FrontEndVedant/oss-audit-vedant.git
+cd oss-audit-vedant
 ```
 
 **2. Make scripts executable:**
